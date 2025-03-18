@@ -1,0 +1,33 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e63254e4-a22b-4f93-bf5c-434d419a29bf")
+	(paper "A4")
+	(lib_symbols)
+	(text "GU Drones ESC Schematic"
+		(exclude_from_sim no)
+		(at 199.898 189.738 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "794783da-4bf5-4874-940c-c67c30839171")
+	)
+	(text "18/03/2025"
+		(exclude_from_sim no)
+		(at 212.852 193.548 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c27ac952-7116-4140-9b02-44a3de58b4ab")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
